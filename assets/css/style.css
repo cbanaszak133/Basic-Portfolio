@@ -246,6 +246,8 @@ textarea{
 }
 
 footer{
+	position:fixed;
+	bottom:0;
 	width:100%;
 	clear:both;
 	background-color:#666666;
